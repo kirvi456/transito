@@ -1,0 +1,1 @@
+export type TipoBusquedaType = 'boleta' | 'conductor' | 'vehiculo';
